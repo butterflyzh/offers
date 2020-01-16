@@ -11,3 +11,7 @@
 - [二叉树的前序遍历](./tree/Soluation_1.java)
 - [二叉树的中序遍历](./tree/Soluation_2.java)
 - [二叉树的后序遍历](./tree/Soluation_3.java)
+- [对称二叉树](./tree/Soluation_4.java)
+- [二叉搜索树中的第k小的元素](./tree/Soluation_5.java)
+- [从根到叶的二进制之和](./tree/Soluation_6.java)
+- [ 二叉搜索树的最近公共祖先](./tree/Soluation_7.java)
